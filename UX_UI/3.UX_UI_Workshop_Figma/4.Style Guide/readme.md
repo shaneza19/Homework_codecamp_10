@@ -5,10 +5,10 @@ Style guide แสดงออกถึง
 	-Colors  
 	-Typography  
 	-Textures  
-	-Patterns
+	-Patterns  
 
-นำ Moodboard มาแสดงให้เห็นชัดเจนมากขึ้น
-ไม่ได้บอกว่า Web หรือ App จะหน้าตาอย่างไร จะบอกแค่ Mood & Tone
+Style guide Figma  
+https://www.figma.com/file/3Yc6Lo5KaE1SK2w3xj4coA/Style-Guide
 
 
 

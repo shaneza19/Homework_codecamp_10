@@ -8,8 +8,10 @@ fonts (1 to 3 per mood board)
 photography/illustration style
 iconography (if needed)
 navigation style
-spatial awareness (or, white space usage)
+spatial awareness (or, white space usage)  
 
 
+Moodboard Figma  
+https://www.figma.com/file/w5OB7AVRk7ID47JnXBSM2G/Moodboard
 
 
