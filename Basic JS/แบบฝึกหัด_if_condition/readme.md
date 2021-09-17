@@ -1,12 +1,15 @@
 CodeCamp10  
 1. Kashane Danchaiwijit  
 2. Basic JS แบบฝึกหัด Condition ข้อ 1 - 4    
+
+
 1) Browser จะโชว์ข้อความอะไร  
-            if (0) {  
-                alert('Zero');  
-            } else {  
-                alert('Nooo');  
-            }  
+if (0) {  
+	alert('Zero');  
+	} else {  
+	alert('Nooo');  
+	}  
+
 answer:  
     โชว์ข้อความ Nooo เพราะ เงื่อนไขของ if เป็นเท็จ เนื่องจาก 0 มีค่าเป็น false (boolean)  
     จึงทำให้โปรแกรมทำคำสั่งของ else ซึ่งก็คือ alert('Nooo');  
