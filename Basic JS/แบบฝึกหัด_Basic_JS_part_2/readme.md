@@ -18,7 +18,7 @@ answer:
 	(null is false)  
 1.4 perform alert(1) then terminate function   
 	because all conditions are alert functions (2 falses)   
-1.5 output = 3 
+1.5 output = 3  
 	(perform && before ||, 2 and 3 are true, since 3 is the last output = 3 in && operand)  
 
 
@@ -27,13 +27,13 @@ answer:
 answer:  
 let age = prompt("input your age : ");  
 
-if(age >= 18 && age <= 60) {  
-    alert("อายุของคุณอยู่ระหว่าง 18 - 60 ปี");  
-}  
+	if(age >= 18 && age <= 60) {  
+	alert("อายุของคุณอยู่ระหว่าง 18 - 60 ปี");  
+	}  
 
-if(age < 18 || age > 60) {  
-    alert("อายุของคุณไม่อยู่ระหว่าง 18 - 60 ปี");  
-}  
+	if(age < 18 || age > 60) {  
+	alert("อายุของคุณไม่อยู่ระหว่าง 18 - 60 ปี");  
+	}  
 
 
 4) คำสั่ง alert ไหนที่จะถูกรันบ้าง  
@@ -57,13 +57,13 @@ answer:
 answer:  
 let userName = prompt("Who are you?");  
 if(userName === "admin") {  
-    let userPassword = prompt("Enter your password : ");  
-    if(userPassword === "codecamp#10") alert("Welcome");  
-    else alert("Wrong password")  
-}  
-else if(userName){  
-    alert("I don't know you");  
-}  
-else {  
-    alert("Cancel");  
-}  
+	let userPassword = prompt("Enter your password : ");  
+		if(userPassword === "codecamp#10") alert("Welcome");  
+		else alert("Wrong password")  
+		}  
+	else if(userName){  
+		alert("I don't know you");  
+		}  
+	else {  
+		alert("Cancel");  
+		}  
