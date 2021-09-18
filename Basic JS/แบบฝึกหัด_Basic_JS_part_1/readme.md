@@ -1,6 +1,6 @@
 CodeCamp10  
 1. Kashane Danchaiwijit  
-2. Basic JS แบบฝึกหัด Condition ข้อ 1 - 4    
+2. Basic JS แบบฝึกหัด  ข้อ 1 - 4    
 
 
 1) Browser จะโชว์ข้อความอะไร  
