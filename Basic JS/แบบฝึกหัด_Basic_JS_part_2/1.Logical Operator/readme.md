@@ -1,6 +1,6 @@
 CodeCamp10  
 1. Kashane Danchaiwijit  
-2. Basic JS Part-2 แบบฝึกหัด  ข้อ 1 - 5    
+2. Basic JS Part-2 Logical Operator แบบฝึกหัด  ข้อ 1 - 5    
 
 แบบฝึกหัด  
   1) คำสั่งต่อไปนี้จะแสดงค่าเป็นอะไร  
