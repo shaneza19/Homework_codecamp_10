@@ -2,14 +2,14 @@ CodeCamp10
 1. Kashane Danchaiwijit  
 2. Basic JS Part-2 Loop แบบฝึกหัด  ข้อ 1 - 6    
 
-แบบฝึกหัด  
-1) เลขที่ถูก alert เป็นลำดับสุดท้ายคือเลขอะไร  
+แบบฝึกหัด    
+1) เลขที่ถูก alert เป็นลำดับสุดท้ายคือเลขอะไร    
 let i = 3;  
 while (i) {  
    alert( i-- );  
 }  
 
-answer: 1 (1=truthy)
+answer: 1 (1=truthy)  
 
 2) code ทั้งสองอันนี้จะแสดง alert ออกมาเหมือนกันทั้งหมดหรือไม่  
 let i = 0;  
@@ -32,6 +32,7 @@ code แรกแสดงผล i = 0,1,2,3,4
 code ที่สองแสดงผล i = 0,1,2,3,4  
 
 4) ให้เขียน loop ทั้งแสดงเลข 2 ถึง 10 ออกมา  
+answer:  
 for (let i = 2; i < 11; i++) {alert( i )};  
 
 5) เปลี่ยน code for loop ด้านล่างนี้ให้เป็น while loop โดยที่ผลลัพธ์ยังเหมือนเดิม  
