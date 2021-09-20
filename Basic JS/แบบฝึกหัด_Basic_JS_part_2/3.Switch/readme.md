@@ -19,17 +19,18 @@ CodeCamp10
                 alert('We hope that this page looks ok!');  
         }  
 
-answer:  
-if(browser == 'Edge') {
-  alert("You've got the Edge!");
-} else if (browser == 'Chrome'
- || browser == 'Firefox'
- || browser == 'Safari'
- || browser == 'Opera') {
-  alert( 'Okay we support these browsers too' );
-} else {
-  alert( 'We hope that this page looks ok!' );
-}
+answer:
+
+if(browser == 'Edge') {  
+  alert("You've got the Edge!");  
+} else if (browser == 'Chrome'  
+ || browser == 'Firefox'  
+ || browser == 'Safari'  
+ || browser == 'Opera') {  
+  alert( 'Okay we support these browsers too' );  
+} else {  
+  alert( 'We hope that this page looks ok!' );  
+}  
 
 2) แปลง Code ดังกล่าวเป็น Switch cases  
 
