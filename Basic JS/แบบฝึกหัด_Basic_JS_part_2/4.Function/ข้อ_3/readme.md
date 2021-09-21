@@ -13,12 +13,12 @@ CodeCamp10
 
 answer:
    
-function draw(n) {
-    for(let row=0; row<n; row++) {
-        let num = '';
-        for(let col=1; col<n+1; col++){ // ไม่เริ่มดัวยเลข 0, col กับ n เลยบวก1
-            num += col;
-        }
-        console.log(num);
-    }
-}
+        function draw(n) {
+          for(let row=0; row<n; row++) {
+             let num = '';
+             for(let col=1; col<n+1; col++){ // ไม่เริ่มดัวยเลข 0, col กับ n เลยบวก1
+             num += col;
+             }
+            console.log(num);
+           }
+         }

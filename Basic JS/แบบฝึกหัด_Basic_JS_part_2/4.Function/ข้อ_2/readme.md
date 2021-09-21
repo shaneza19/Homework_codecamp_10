@@ -14,9 +14,9 @@ answer:
    
         function draw(n) {
             for(let row=0; row<n; row++) {
-            let star = '';
+               let star = '';
             for(let col=0; col<n; col++){
-            star += '*';
+               star += '*';
                }
             console.log(star);
             }
