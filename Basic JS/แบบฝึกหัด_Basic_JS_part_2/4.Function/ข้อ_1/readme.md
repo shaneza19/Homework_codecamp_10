@@ -6,3 +6,12 @@ CodeCamp10
             **              ***             ****
             n = 2           n = 3           n = 4
 
+answer:
+   
+    function draw(n) {
+    let star = '';
+    for(let i=0; i<n; i++)
+        star += '*'
+    console.log(star);
+}
+
