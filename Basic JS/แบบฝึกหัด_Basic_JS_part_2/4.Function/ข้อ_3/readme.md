@@ -14,11 +14,11 @@ CodeCamp10
 answer:
    
         function draw(n) {
-          for(let row=0; row<n; row++) {
-             let num = '';
-             for(let col=1; col<n+1; col++){ // ไม่เริ่มดัวยเลข 0, col กับ n เลยบวก1
-             num += col;
+          for(let row=0; row<n; row++) {     // ทำจำนวนrow = n
+             let num = '';                     // ประกาศตัวแปรว่างเปล่า
+             for(let col=1; col<n+1; col++){   // ทำจำนวนcollumn = n, col<n+1 เพราะ let col=1 เพื่อเริ่มเลขแรกดัวยเลข1
+               num += col;                       // แทนค่าว่างเปล่าดัวย collumn
+               }
+             console.log(num);                 // พิมค่าว่างเปล่า = collumn
              }
-            console.log(num);
-           }
-         }
+          }

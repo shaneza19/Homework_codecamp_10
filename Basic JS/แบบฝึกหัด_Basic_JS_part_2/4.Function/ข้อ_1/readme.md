@@ -9,9 +9,9 @@ CodeCamp10
 answer:
    
     function draw(n) {
-    let star = '';
-    for(let i=0; i<n; i++)
-        star += '*'
-    console.log(star);
-}
+       let star = '';         // ประกาศตัวแปรว่างเปล่า
+       for(let i=0; i<n; i++) // ทำจำนวนครั้ง = n
+       star += '*'            // แทนค่าว่างเปล่าดัวย *
+       console.log(star);     // พิมดาว
+     }
 

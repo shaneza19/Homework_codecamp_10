@@ -13,11 +13,11 @@ CodeCamp10
 answer:
    
         function draw(n) {
-            for(let row=0; row<n; row++) {
-               let star = '';
-            for(let col=0; col<n; col++){
-               star += '*';
+            for(let row=0; row<n; row++) {     // ทำจำนวนrow = n
+               let star = '';                    // ประกาศตัวแปรว่างเปล่า
+               for(let col=0; col<n; col++){     // ทำจำนวนcollumn = n
+                 star += '*';                      // แทนค่าว่างเปล่าดัวย *
+                 }
+               console.log(star);                // พิมดาว
                }
-            console.log(star);
             }
-        }
