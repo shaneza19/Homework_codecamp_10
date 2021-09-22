@@ -35,15 +35,13 @@ answer:
             }
          }
 
-//testing n = 2
-//row 1 2
-//col 2 1
+          //testing n = 2
+          //row 1 2
+          //col 2 1
+          //1,2true 1,1false     -1
+          //2,2false 2,1 false   23
 
-//1,2true 1,1false     -1
-//2,2false 2,1 false   23
-
-//row 1
-//col 2 1
-
-//1,2true 1,1false     -4
+          //row 1
+          //col 2 1
+          //1,2true 1,1false     -4
 

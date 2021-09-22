@@ -26,12 +26,11 @@ answer:
             }
            }
 
-//testing (2 col for-loops)
-//n=3
-//row 1 2 3
-//col 3 2 1 //col 2 3
+          //testing (2 col for-loops)
+          //n=3
+          //row 1 2 3
+          //col 3 2 1 //col 2 3
 
-
-//1,3 true  1,2 true  1,1 false 1,2 false 1,3 false   --*--
-//2,3 true  2,2 false 2,1 false 2,2 false 2,3 true    -***-
-//3,3 false 3,2 false 3,1 false 3,2 false 3,3 false   *****
+          //1,3 true  1,2 true  1,1 false 1,2 false 1,3 false   --*--
+          //2,3 true  2,2 false 2,1 false 2,2 false 2,3 true    -***-
+          //3,3 false 3,2 false 3,1 false 3,2 false 3,3 false   *****

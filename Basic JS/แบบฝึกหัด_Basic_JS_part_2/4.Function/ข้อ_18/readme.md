@@ -25,11 +25,10 @@ answer:
 
 
 
-//testing n=3
-//row 3 2 1 
-//col 3 2 1
-
-//(3,3)false (3,2)false (3,1)false    ***
-//(2,3)true (2,2)false (2,1)false     -**  
-//(1,3)true (1,2)true (1,1)false      --*   
+          //testing n=3
+          //row 3 2 1 
+          //col 3 2 1
+          //(3,3)false (3,2)false (3,1)false    ***
+          //(2,3)true (2,2)false (2,1)false     -**  
+          //(1,3)true (1,2)true (1,1)false      --*   
 

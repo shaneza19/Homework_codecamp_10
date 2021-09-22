@@ -23,11 +23,12 @@ answer:
              }
           }
 
-//testing n=3
-//row 1 2 3
-//col 3 2 1
 
-//(1,3)false (1,2)false (1,1)true     * * -
-//(2,3)false (2,2)true (2,1)false     * - *
-//(3,3)true (3,2)false (3,1)false     - * *
+          //testing n=3
+          //row 1 2 3
+          //col 3 2 1
+
+          //(1,3)false (1,2)false (1,1)true     * * -
+          //(2,3)false (2,2)true (2,1)false     * - *
+          //(3,3)true (3,2)false (3,1)false     - * *
 

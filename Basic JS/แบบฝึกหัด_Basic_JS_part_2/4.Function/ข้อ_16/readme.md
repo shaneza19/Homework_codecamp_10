@@ -34,17 +34,16 @@ answer:
              }
            }
 
-//testing n=3
-//row 1 2 3 
-//col 0 1 2
+          //testing n=3
+          //row 1 2 3 
+          //col 0 1 2
+          //(1,0)true (1,1)false (1,2)false    1--
+          //(2,0)true (2,1)true (2,2)false     22-
+          //(3,0)true (3,1)true (2,2)true      333
 
-//(1,0)true (1,1)false (1,2)false    1--
-//(2,0)true (2,1)true (2,2)false     22-
-//(3,0)true (3,1)true (2,2)true      333
-
-//testing n=3
-//row 2 1
-//col 0 1 2
-//(2,0)true (2,1)true (2,2)false     22-
-//(1,0)true (1,1)false (1,2)false    1--
+          //testing n=3
+          //row 2 1
+          //col 0 1 2
+          //(2,0)true (2,1)true (2,2)false     22-
+          //(1,0)true (1,1)false (1,2)false    1--
 

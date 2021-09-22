@@ -23,10 +23,11 @@ answer:
              }
           }
 
-//testing n=2
-//row 0 1
-//col 0 1
 
-//(0,0)true (0,1)false      - *
-//(1,0)false (1,1)true      * -
+          //testing n=2
+          //row 0 1
+          //col 0 1
+
+          //(0,0)true (0,1)false      -*
+          //(1,0)false (1,1)true      *-
 
