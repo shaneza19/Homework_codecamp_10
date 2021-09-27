@@ -62,8 +62,7 @@ answer:
          age: 19,
          "home address": "Thailand",
          isSingle: false,
-         clever: 9
-};
+         clever: 9};
 
 
 
@@ -259,7 +258,7 @@ answer:
 
 
 
-**Constructor Function**
+**Constructor Function**   
 6.1) สร้าง constructor function ที่ใช้สำหรับสร้าง Calculator โดยต้องมี 3 Methods นี้  
 
          - read(): รับค่าจาก propmt สองตัว
