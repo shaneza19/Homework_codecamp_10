@@ -1,6 +1,6 @@
 CodeCamp10  
 1. Kashane Danchaiwijit  
-2. Advance JS Part-1 แบบฝึกหัด  ข้อ 1 - ____
+2. Advance JS Part-1 แบบฝึกหัด  ข้อ 1 - 6
 
 แบบฝึกหัด 
 
