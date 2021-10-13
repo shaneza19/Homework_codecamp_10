@@ -5,7 +5,7 @@ CodeCamp10
 แบบฝึกหัด 
 
 **Map and Set**    
-1)     ให้ arr เป็น Array สร้าง function ชื่อ unique(arr) ให้คืนค่าเป็น unique items ของ arr
+1) ให้ arr เป็น Array สร้าง function ชื่อ unique(arr) ให้คืนค่าเป็น unique items ของ arr
 
         function unique(arr) {
         /* your code */
