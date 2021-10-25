@@ -18,6 +18,8 @@ CodeCamp10
         alert( rabbit.eats ); // true
 
 1.1) ถ้ามีการ alert ในบรรทัดดังกล่าวจะได้อะไรออกมา
+
+
         function Rabbit() {}
         Rabbit.prototype = {
           eats: true
@@ -37,6 +39,8 @@ answer:
 
 
 1.2) ถ้ามีการ alert ในบรรทัดดังกล่าวจะได้อะไรออกมา
+
+
         function Rabbit() {}
         Rabbit.prototype = {
           eats: true
@@ -56,6 +60,8 @@ answer:
 
 
 1.3) ถ้ามีการ alert ในบรรทัดดังกล่าวจะได้อะไรออกมา
+
+
         function Rabbit() {}
         Rabbit.prototype = {
           eats: true
