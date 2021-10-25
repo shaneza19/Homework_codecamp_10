@@ -4,7 +4,7 @@ CodeCamp10
 
 แบบฝึกหัด 
 
-**Javascript For React**    
+**Destructuring**    
 1) ถ้าเรามี object
 
 

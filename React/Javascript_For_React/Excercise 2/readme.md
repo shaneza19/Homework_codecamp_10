@@ -4,7 +4,7 @@ CodeCamp10
 
 แบบฝึกหัด 
 
-**Javascript For React**    
+**Inheritance**    
 1) ในบรรทัดที่มีเลข 1 2 และ 3 จะได้ค่าออกมาเป็นอะไร
 
 
