@@ -81,6 +81,8 @@ answer:
 
 
 1.4) ถ้ามีการ alert ในบรรทัดดังกล่าวจะได้อะไรออกมา
+
+
         function Rabbit() {}
         Rabbit.prototype = {
           eats: true
