@@ -9,9 +9,9 @@ CodeCamp10
 
 
         let user = {
-        name: 'John',
-        year: 30
-        };
+          name: 'John',
+          year: 30
+         };
 
         ให้เขียน Destrucutring  assignment ที่ให้
         1. property ที่ชื่อ name อยู่ในตัวแปร name
