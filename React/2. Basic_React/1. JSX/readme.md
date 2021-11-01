@@ -5,7 +5,8 @@ CodeCamp10
 แบบฝึกหัด 
 
 **JSX**    
-lab 1
+
+Lab 1
 
          สร้าง obj ชื่อ myComponent
          มี 3 key เป็น one , two, three
